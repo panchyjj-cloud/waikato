@@ -1,0 +1,16 @@
+eventTime,longitude,latitude,eventType,status,severity,roadName,description,eventId
+2026-09-28T08:00:00Z,175.269,-37.7865,Crash,Active,High,SH1,Two vehicle crash northbound,WK001
+2026-09-28T08:01:00Z,175.281,-37.789,Crash,Active,Medium,SH1C,Minor crash near Te Rapa,WK002
+2026-09-28T08:02:00Z,175.252,-37.804,Crash,Active,High,Wairere Drive,Multi vehicle collision,WK003
+2026-09-28T08:03:00Z,175.2425,-37.7935,Crash,Active,Medium,Ulster Street,Vehicle breakdown causing delays,WK004
+2026-09-28T08:04:00Z,175.167,-37.666,Crash,Active,High,SH1,Crash near Taupiri,WK005
+2026-09-28T08:05:00Z,175.53,-37.2,Crash,Active,Medium,SH25,Crash near Thames,WK006
+2026-09-28T08:06:00Z,175.776,-37.683,Crash,Active,High,SH26,Collision near Morrinsville,WK007
+2026-09-28T08:07:00Z,175.87,-37.98,Crash,Active,Medium,SH2,Crash near Waihi,WK008
+2026-09-28T08:08:00Z,175.67,-37.73,Crash,Active,High,SH27,Truck collision near Matamata,WK009
+2026-09-28T08:09:00Z,175.16,-38.0,Crash,Active,Medium,SH1,Crash near Cambridge,WK010
+2026-09-28T08:10:00Z,175.27,-37.785,Flooding,Active,Medium,Victoria Street,Surface flooding reported,WK011
+2026-09-28T08:11:00Z,175.285,-37.77,Roadworks,Active,Low,Te Rapa Road,Lane closure for maintenance,WK012
+2026-09-28T08:12:00Z,175.315,-37.79,Crash,Active,High,Cobham Drive,Major crash affecting traffic,WK013
+2026-09-28T08:13:00Z,175.298,-37.755,Crash,Active,Medium,Wairere Drive,Single vehicle incident,WK014
+2026-09-28T08:14:00Z,175.21,-37.81,Crash,Active,High,SH3,Crash near Hamilton Airport turnoff,WK015
